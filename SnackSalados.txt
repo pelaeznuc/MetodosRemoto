@@ -1,6 +1,10 @@
 Patatas fritas
 Aceitunas 
 Tortilla
+<<<<<<< HEAD
 
 
 Comen en el salon 
+=======
+Jamon
+>>>>>>> 212d61bd948655cf4e8e41274951a6cfd0ed1009
